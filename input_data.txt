@@ -1,0 +1,2 @@
+initial_position = 123
+requests = 98, 183, 37, 122, 14, 124, 65, 67
